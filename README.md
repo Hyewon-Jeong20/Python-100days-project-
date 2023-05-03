@@ -36,3 +36,10 @@ This project is calculation function.
 This one is enable user to calculate previous output with new input. 
 
 [python_project_Calculation.webm](https://user-images.githubusercontent.com/84688009/235774659-7cc31c96-f4c1-4117-ac53-c1e762626847.webm)
+
+
+
+Blackjack Game Project
+
+[Blackjack Game Project.webm](https://user-images.githubusercontent.com/84688009/236005006-613fd959-a723-44e2-a4c5-e9da382c4052.webm)
+
