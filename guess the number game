@@ -1,0 +1,63 @@
+
+//art.py
+logo = """                                                              .___                               
+   ____  __ __   ____   ______ ______ __  _  _____________  __| _/    _________    _____   ____  
+  / ___\|  |  \_/ __ \ /  ___//  ___/ \ \/ \/ /  _ \_  __ \/ __ |    / ___\__  \  /     \_/ __ \ 
+ / /_/  >  |  /\  ___/ \___ \ \___ \   \     (  <_> )  | \/ /_/ |   / /_/  > __ \|  Y Y  \  ___/ 
+ \___  /|____/  \___  >____  >____  >   \/\_/ \____/|__|  \____ |   \___  (____  /__|_|  /\___  >
+/_____/             \/     \/     \/                           \/  /_____/     \/      \/     \/ """                                     
+
+
+
+#Number Guessing Game Objectives:
+
+# Include an ASCII art logo.
+from art import logo
+import random
+
+EASY_LEVEL_TURNS = 10
+HARD_LEVEL_TURNS = 5
+
+print(logo)
+
+# turns = 0
+def guess_number (guess, answer, turns) :
+  if guess > answer :
+    print("Too high.")
+    return turns - 1
+  elif guess < answer :
+     print("Too low.")
+     return turns - 1
+  else :
+   print(f"You got it! The answer was {answer}")
+
+
+ 
+def game () :
+  print("Welcome to the Number Guessing Game!")
+  print("I'm thinking of a number between 1 and 100.")
+  correct_digit = random.randint(1, 100)
+  
+  def set_difficulty () :
+    level = input("choose a difficulty. Type 'easy' or 'hard': ")
+  
+    if level == "hard" :
+      return HARD_LEVEL_TURNS  
+    else :
+      return EASY_LEVEL_TURNS
+     
+  turns = set_difficulty()
+ 
+ 
+  guess = 0
+  while guess != correct_digit :
+    print(f"You have {turns} attempts remaining to guess the number.")
+    guess = int(input("Make a guess: "))
+    turns = guess_number(guess, correct_digit, turns)
+    if turns == 0 : 
+      print("You've run of of guesses, you lose.")
+      return 
+    elif guess != correct_digit :
+      print("Guess again.")
+  
+game()
