@@ -1,4 +1,14 @@
 # Python-Project
+
+Higher_Lower game project
+This project is about to compare the number of followers in internet.
+
+
+[Higher-Lower Game.webm](https://user-images.githubusercontent.com/84688009/236652532-02e099f8-8ce3-416a-ae56-81d4fa0bef8e.webm)
+
+
+
+
 Biding Project 
 
 This project is about to bid for each person's submitted price.
