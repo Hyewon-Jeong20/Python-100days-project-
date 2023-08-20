@@ -1,9 +1,11 @@
-# Python-Project
+# Python-conquest-Project
 
 Turtle_RacingGame
-This project is about to do game with guessing which color turtle will run!
+This project is about to do a game with guessing which color turtle will run!
 
 [Uploading Turtle_racing game.webm…]()
+
+
 
 
 
