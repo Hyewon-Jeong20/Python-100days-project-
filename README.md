@@ -3,8 +3,10 @@
 Turtle_RacingGame
 This project is about to do a game with guessing which color turtle will run!
 
-[Uploading Turtle_racing game.webm…]()
 
+
+
+https://github.com/Hyewon-Jeong20/Python-conquest-project-/assets/84688009/7edcbf49-7519-41dd-9e44-83de05e0bb57
 
 
 
