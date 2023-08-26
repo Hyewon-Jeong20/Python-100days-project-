@@ -1,5 +1,13 @@
 # Python-conquest-Project
 
+
+U.S. State Game
+This project is about to guess and fill out all states names of U.S 
+
+https://web.microsoftstream.com/video/039a3ccd-2dd1-4a7b-a533-e61ab8575a41
+
+
+
 Turtle_RacingGame
 This project is about to do a game with guessing which color turtle will run!
 
