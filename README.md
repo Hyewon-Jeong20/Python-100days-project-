@@ -1,12 +1,16 @@
-# Python-conquest-Project
+# Python-100days-Project
+
+ProgrammingLanguageDataAnalysis
+This project is about to analyze the ranking of programming language in overflow stack by using 'matplotlib' and 'Pandas' library
+https://web.microsoftstream.com/video/0d8136c5-c59c-4c97-9fff-78138fc1e640
 
 Salary by College Major Analysis 
-This project is about to analze the salary insight by college/university major
+This project is about to analyze the salary insight by college/university major
 https://web.microsoftstream.com/video/52b88c11-875b-4db8-901e-a35ef97883c6
 
 
 U.S. State Game
-This project is about to guess and fill out all states names of U.S 
+This project is about guessing and fill out all state's names of U.S 
 
 https://web.microsoftstream.com/video/039a3ccd-2dd1-4a7b-a533-e61ab8575a41
 
@@ -24,7 +28,7 @@ https://github.com/Hyewon-Jeong20/Python-conquest-project-/assets/84688009/7edcb
 
 
 Higher_Lower game project
-This project is about to compare the number of followers in internet.
+This project is about to compare the number of followers on the internet.
 
 
 [Higher-Lower Game.webm](https://user-images.githubusercontent.com/84688009/236652532-02e099f8-8ce3-416a-ae56-81d4fa0bef8e.webm)
