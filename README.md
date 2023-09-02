@@ -1,5 +1,9 @@
 # Python-conquest-Project
 
+Salary by College Major Analysis 
+This project is about to analze the salary insight by college/university major
+https://web.microsoftstream.com/video/52b88c11-875b-4db8-901e-a35ef97883c6
+
 
 U.S. State Game
 This project is about to guess and fill out all states names of U.S 
