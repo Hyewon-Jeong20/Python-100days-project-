@@ -1,4 +1,9 @@
-# Python-100days-Project
+# Python-100days-Projects
+
+Nato_phonetic_alphabet 
+This project is to display the nato_phonetic_alphabet based on the user input string
+https://web.microsoftstream.com/video/2b42379d-50e6-4973-8e2b-5950acd98096
+
 
 ProgrammingLanguageDataAnalysis
 This project is about to analyze the ranking of programming language in overflow stack by using 'matplotlib' and 'Pandas' library
