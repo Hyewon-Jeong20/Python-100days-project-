@@ -1,5 +1,10 @@
 # Python-100days-Projects
 
+Pomodoro Timer Program
+This project is to help people use the Pomodoro Timer Program!
+[Screen Recording.webm](https://github.com/Hyewon-Jeong20/Python100DaysProject_MiniProgram/assets/84688009/36836ddc-c265-483a-89a2-ee40d84ddd85)
+
+
 Nato_phonetic_alphabet 
 This project is to display the nato_phonetic_alphabet based on the user input string
 https://web.microsoftstream.com/video/2b42379d-50e6-4973-8e2b-5950acd98096
