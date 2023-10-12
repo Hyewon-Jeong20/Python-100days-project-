@@ -2,7 +2,7 @@
 
 Password Manager System
 This project is to help people use password manager system!
-[Recording-20231012_134310.webm](https://github.com/Hyewon-Jeong20/Python100DaysProject_MiniProgramDevelopment/assets/84688009/94528997-3343-4e28-b765-851651a0dbde)
+https://seneca-my.sharepoint.com/personal/hjeong25_myseneca_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fhjeong25%5Fmyseneca%5Fca%2FDocuments%2FRecording%2D20231012%5F134310%2Ewebm&nav=%7B%22defaultNavPanel%22%3A%7B%22pluginName%22%3A%22MediaSettingsLayer%22%7D%7D&referrer=Camera%2EWeb&referrerScenario=NewRecording%2DStreamStartPage%2Ecreate%2E9790a219%2D138a%2D4207%2D88cc%2D38389cf1da10
 
 
 Pomodoro Timer Program
