@@ -2,8 +2,7 @@
 
 Password Manager System
 This project is to help people use password manager system!
-https://seneca-my.sharepoint.com/personal/hjeong25_myseneca_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fhjeong25%5Fmyseneca%5Fca%2FDocuments%2FRecording%2D20231012%5F134310%2Ewebm&nav=%7B%22defaultNavPanel%22%3A%7B%22pluginName%22%3A%22MediaSettingsLayer%22%7D%7D&referrer=Camera%2EWeb&referrerScenario=NewRecording%2DStreamStartPage%2Ecreate%2E9790a219%2D138a%2D4207%2D88cc%2D38389cf1da10
-
+https://seneca-my.sharepoint.com/:v:/g/personal/hjeong25_myseneca_ca/EY5g4qr8IFdDvcqGYOg77tcB1LxFhLG5PVqHdrwo6l9BPQ?e=kh1uB2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 Pomodoro Timer Program
 This project is to help people use the Pomodoro Timer Program!
